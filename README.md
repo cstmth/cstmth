@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carl</h1>
 <h3 align="center">A full stack developer living somewhere inbetween of design and code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carldresslr&label=Profile%20views&color=0e75b6&style=flat" alt="carldresslr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carldressler&label=Profile%20views&color=0e75b6&style=flat" alt="carldresslr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carldresslr" alt="carldresslr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carldressler" alt="carldresslr" /></a> </p>
 
 - 🔭 I’m currently working on a **simple pomodoro timer** to learn Flutter
 
