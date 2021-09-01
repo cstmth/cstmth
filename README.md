@@ -5,7 +5,8 @@
 - ⭐ My favourite technologies: Java, Flutter and relational databases
 
 <h3 align="center">My philosophy</h3>
-This sounds bold, I know. Nonetheless I have a few guiding principles I base my work.
+This sounds bold, I know. Nonetheless I have a few guiding principles I base my work on.
+
 
 <b>Professionalism</b>
 
