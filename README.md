@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carl 👋</h1>
 <h3 align="center">A full stack developer living somewhere between design and code</h3>
 
-- 🚀 I’m currently working on an **messaging app without a chat history, putting back control in your hands** using React with React Native and TypeScript.
+- 🚀 I’m currently working on an **messaging app with a focus on digital wellbeing** using React + React Native and TypeScript.
 - ⭐ My favourite technologies: Java, Flutter and relational databases
 
 <h3 align="center">My philosophy</h3>
