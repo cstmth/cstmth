@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Carl 👋</h1>
 <h3 align="center">A full stack developer living somewhere between design and code</h3>
 
-- 🚀 I’m currently working on an **messaging app with a focus on digital wellbeing** using React + React Native and TypeScript.
-- ⭐ My favourite technologies: Java, Flutter and relational databases
+- 🚀 I’m currently studying Business Informatics at the [University of Applied Sciences Dortmund](https://fachhochschule-dortmund.de)
+- ⭐ My favourite technologies: JS, Astro + Vite, the whole of DevOps (except emails, eww)
 
 <h3 align="center">My philosophy</h3>
 This sounds bold, I know. Nonetheless I have a few guiding principles I base my work on.
-
 
 <h4>Professionalism</h4>
 
